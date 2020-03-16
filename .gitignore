@@ -1,0 +1,4 @@
+# Project exclude paths
+/activemq-producer/target/
+/activemq-receiver/target/
+/target/
